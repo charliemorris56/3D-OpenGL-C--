@@ -1,0 +1,4 @@
+﻿  StaticObjects.cpp
+E:\Documents\Uni\OneDrive - Staffordshire University\FOGGS\Sem2\HelloGL\HelloGL\StaticObjects.cpp(45,12): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+E:\Documents\Uni\OneDrive - Staffordshire University\FOGGS\Sem2\HelloGL\HelloGL\StaticObjects.cpp(47,12): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+  HelloGL.vcxproj -> E:\Documents\Uni\OneDrive - Staffordshire University\FOGGS\Sem2\HelloGL\Debug\HelloGL.exe
